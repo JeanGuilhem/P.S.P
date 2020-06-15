@@ -19,3 +19,5 @@ This project works with Grakn 1.7.0
 - Create the P.S.P Grakn keyspace (via Workspace or console) : `paris_subway`
 - Load the schema into the keyspace : `grakn console --keyspace paris_subway  --file schema/schema_subway.gql`
 - Load the data into the db by launching the file `migration_subway.py` into `P.S.P/data`
+- Launch the file `app.py` in order to get the map
+- Launche the file `statistics.py` in order to interact with the data via the console
