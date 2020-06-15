@@ -5,6 +5,8 @@ It was greatly inspired from the London Underground Network project : https://gi
 
 See the Quickstart for how to get going immediately, or read on for more info.
 
+This project was realized as part of my internship at [7LieuesTechnologies](http://www.7lieues.net) 
+
 ## Prerequisites
 
 Python >= 3.6 
