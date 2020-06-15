@@ -15,7 +15,7 @@ This project works with Grakn 1.7.0
 
 - Install Grakn : https://dev.grakn.ai/docs/running-grakn/install-and-run
 - Install Grakn Workbase ( not required but usefull and easier to navigate ) : https://grakn.ai/download#workbase
-- Launch the server ( `grakn server start` ) 
-- Create the P.S.P Grakn keyspace  : `paris_subway`
+- Launch the Grakn server ( `grakn server start` ) 
+- Create the P.S.P Grakn keyspace (via Workspace or console) : `paris_subway`
 - Load the schema into the keyspace : `grakn console --keyspace paris_subway  --file schema/schema_subway.gql`
 - Load the data into the db by launching the file `migration_subway.py` into `P.S.P/data`
