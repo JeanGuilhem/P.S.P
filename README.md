@@ -80,14 +80,22 @@ match $route (beginning : $station1, end : $station2), has station_ligne "{given
 
 and add a counter for the stations but be careful with duplicated data.
 
+#### Patch between two stations
+(image/path_stations.png)
 
 ## The map 
+
+(image/Map.png)
 
 The colors in the map are the real colors given by the RATP.
 
 Normally, you should get the path between two stations by holding shift and clicking on them but it's not working for now (you can still got it via the statistcs information by the way).
 
-You can compute centrality of stations and get a visual information by just pressing `k` ( using k-core ) or by pressing r.
+You can compute centrality of stations and get a visual information by just pressing `k` ( using k-core )
+(image/Map_k_core.png)
+
+or by pressing r.
+(image/map_degree.png)
 
 You can clear the map from the previous information by pressing `c`
 
