@@ -41,15 +41,21 @@ There are two type of csv files :
 - `data_metro_{tube_line_name}.csv` contains all necessary data for a station from the `{tube_line_name}`
 
 station_id [string] : the id of the stations ( not the Grakn id but the id from the RATP ) Ex: "612"
+
 name [string] : the name of the station Ex: "Cambronne"
+
 station_ligne [string] : the name of the line (from 1 to 14 for the Paris subway) Ex: "2"
+
 lat [float] : the latitude gps coordinates for the station Ex: 48.5621
+
 lon [float] : the longitude gps coordinates for the station Ex: 2.2951
 
 - `data_metro_MARKII_{tube_line_name}.csv` contains the relation betweens station from the line `{tube_line_name}`
 
 station_ligne [string] : the line name Ex: "M1"
+
 origin [string] : the name of the origin station Ex: "La Defense"
+
 destination [string] : the name of the destination station Ex: "Esplanade de la Defense"
 
 
