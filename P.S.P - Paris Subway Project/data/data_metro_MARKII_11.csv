@@ -1,0 +1,25 @@
+station_ligne,origin,destination
+M11,Chatelet,Hotel de Ville
+M11,Hotel de Ville,Chatelet
+M11,Hotel de Ville,Rambuteau
+M11,Rambuteau,Hotel de Ville
+M11,Rambuteau,Arts et Metiers
+M11,Arts et Metiers,Rambuteau
+M11,Arts et Metiers,Republique
+M11,Republique,Arts et Metiers
+M11,Republique,Goncourt
+M11,Goncourt,Republique
+M11,Goncourt,Belleville
+M11,Belleville,Goncourt
+M11,Belleville,Pyrenees
+M11,Pyrenees,Belleville
+M11,Pyrenees,Jourdain
+M11,Jourdain,Pyrenees
+M11,Jourdain,Place des Fetes
+M11,Place des Fetes,Jourdain
+M11,Place des Fetes,Telegraphe
+M11,Telegraphe,Place des Fetes
+M11,Telegraphe,Porte des Lilas
+M11,Porte des Lilas,Telegraphe
+M11,Porte des Lilas,Mairie des Lilas
+M11,Mairie des Lilas,Porte des Lilas

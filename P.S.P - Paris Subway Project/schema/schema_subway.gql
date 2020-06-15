@@ -1,0 +1,44 @@
+define
+
+name sub attribute,
+    datatype string;
+
+station_id sub attribute,
+    datatype string;
+
+station_ligne sub attribute,
+    datatype string;
+
+lat sub attribute,
+    datatype double;
+
+lon sub attribute,
+    datatype double;
+
+distance sub attribute,
+    datatype double;
+
+origin sub attribute,
+    datatype string;
+
+destination sub attribute,
+    datatype string;
+
+station sub entity,
+    has station_id,
+    has name,
+    has lat,
+    has lon,
+    plays beginning,
+    plays end;
+
+
+tunnel sub entity,
+    has station_ligne,
+    has origin,
+    has destination;
+
+route sub relation,
+    has station_ligne,
+    relates beginning,
+    relates end;

@@ -1,0 +1,75 @@
+station_ligne,origin,destination
+M7,La Courneuve 8 Mai 1945,Fort d'Aubervilliers
+M7,Fort d'Aubervilliers,La Courneuve 8 Mai 1945
+M7,Fort d'Aubervilliers,Aubervilliers Pantin
+M7,Aubervilliers Pantin,Fort d'Aubervilliers
+M7,Aubervilliers Pantin,Porte de la Villette
+M7,Porte de la Villette,Aubervilliers Pantin
+M7,Porte de la Villette,Corentin Cariou
+M7,Corentin Cariou,Porte de la Villette
+M7,Corentin Cariou,Crimee
+M7,Crimee,Corentin Cariou
+M7,Crimee,Riquet
+M7,Riquet,Crimee
+M7,Riquet,Stalingrad
+M7,Stalingrad,Riquet
+M7,Stalingrad,Louis Blanc
+M7,Louis Blanc,Stalingrad
+M7,Louis Blanc,Chateau Landon
+M7,Chateau Landon,Louis Blanc
+M7,Chateau Landon,Gare de l'Est
+M7,Gare de l'Est,Chateau Landon
+M7,Gare de l'Est,Poissonniere
+M7,Poissonniere,Gare de l'Est
+M7,Poissonniere,Cadet
+M7,Cadet,Poissonniere
+M7,Cadet,Le Peletier
+M7,Le Peletier,Cadet
+M7,Le Peletier,Chaussee d'Antin
+M7,Chaussee d'Antin,Le Peletier
+M7,Chaussee d'Antin,Opera
+M7,Opera,Chaussee d'Antin
+M7,Opera,Pyramides
+M7,Pyramides,Opera
+M7,Pyramides,Palais Royal Musee du Louvre
+M7,Palais Royal Musee du Louvre,Pyramides
+M7,Palais Royal Musee du Louvre,Pont Neuf
+M7,Pont Neuf,Palais Royal Musee du Louvre
+M7,Pont Neuf,Chatelet
+M7,Chatelet,Pont Neuf
+M7,Chatelet,Pont Marie
+M7,Pont Marie,Chatelet
+M7,Pont Marie,Sully Morland
+M7,Sully Morland,Pont Marie
+M7,Sully Morland,Jussieu
+M7,Jussieu,Sully Morland
+M7,Jussieu,Place Monge
+M7,Place Monge,Jussieu
+M7,Place Monge,Censier Daubenton
+M7,Censier Daubenton,Place Monge
+M7,Censier Daubenton,Les Gobelins
+M7,Les Gobelins,Censier Daubenton
+M7,Les Gobelins,Place d'Italie
+M7,Place d'Italie,Les Gobelins
+M7,Place d'Italie,Tolbiac
+M7,Tolbiac,Place d'Italie
+M7,Tolbiac,Maison Blanche
+M7,Maison Blanche,Tolbiac
+M7,Maison Blanche,Porte d'Italie
+M7,Porte d'Italie,Maison Blanche
+M7,Porte d'Italie,Porte de Choisy
+M7,Porte de Choisy,Porte d'Italie
+M7,Porte de Choisy,Porte d'Ivry
+M7,Porte d'Ivry,Porte de Choisy
+M7,Porte d'Ivry,Pierre Curie
+M7,Pierre Curie,Porte d'Ivry
+M7,Pierre Curie,Mairie d'Ivry
+M7,Mairie d'Ivry,Pierre Curie
+M7,Maison Blanche,Le Kremlin Bicetre
+M7,Le Kremlin Bicetre,Maison Blanche
+M7,Le Kremlin Bicetre,Villejuif Leo Lagrange
+M7,Villejuif Leo Lagrange,Le Kremlin Bicetre
+M7,Villejuif Leo Lagrange,Villejuif Paul Vaillant Couturier
+M7,Villejuif Paul Vaillant Couturier,Villejuif Leo Lagrange
+M7,Villejuif Paul Vaillant Couturier,Villejuif Louis Aragon
+M7,Villejuif Louis Aragon,Villejuif Paul Vaillant Couturier

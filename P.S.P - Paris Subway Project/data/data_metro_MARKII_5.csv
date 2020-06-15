@@ -1,0 +1,43 @@
+station_ligne,origin,destination
+M5,Bobigny PabloPicasso,Bobigny Pantin
+M5,Bobigny Pantin,Bobigny PabloPicasso
+M5,Bobigny Pantin,Eglise de Pantin
+M5,Eglise de Pantin,Bobigny Pantin
+M5,Eglise de Pantin,Hoche
+M5,Hoche,Eglise de Pantin
+M5,Hoche,Porte de Pantin
+M5,Porte de Pantin,Hoche
+M5,Porte de Pantin,Ourcq
+M5,Ourcq,Porte de Pantin
+M5,Ourcq,Laumiere
+M5,Laumiere,Ourcq
+M5,Laumiere,Jaures
+M5,Jaures,Laumiere
+M5,Jaures,Stalingrad
+M5,Stalingrad,Jaures
+M5,Stalingrad,Gare du Nord
+M5,Gare du Nord,Stalingrad
+M5,Gare du Nord,Gare de l'Est
+M5,Gare de l'Est,Gare du Nord
+M5,Gare de l'Est,Jacques Bonsergent
+M5,Jacques Bonsergent,Gare de l'Est
+M5,Jacques Bonsergent,Republique
+M5,Republique,Jacques Bonsergent
+M5,Republique,Oberkampf
+M5,Oberkampf,Republique
+M5,Oberkampf,Richard Lenoir
+M5,Richard Lenoir,Oberkampf
+M5,Richard Lenoir,Breguet Sabin
+M5,Breguet Sabin,Richard Lenoir
+M5,Breguet Sabin,Bastille
+M5,Bastille,Breguet Sabin
+M5,Bastille,Quai de la Rapee
+M5,Quai de la Rapee,Bastille
+M5,Quai de la Rapee,Gare d'Austerlitz
+M5,Gare d'Austerlitz,Quai de la Rapee
+M5,Gare d'Austerlitz,Saint Marcel
+M5,Saint Marcel,Gare d'Austerlitz
+M5,Saint Marcel,Campo Formio
+M5,Campo Formio,Saint Marcel
+M5,Campo Formio,Place d'Italie
+M5,Place d'Italie,Campo Formio

@@ -1,0 +1,49 @@
+station_ligne,origin,destination
+M2,Porte Dauphine,Victor Hugo
+M2,Victor Hugo,Porte Dauphine
+M2,Victor Hugo,Charles De Gaulle Etoile
+M2,Charles De Gaulle Etoile,Victor Hugo
+M2,Charles De Gaulle Etoile,Ternes
+M2,Ternes,Charles De Gaulle Etoile
+M2,Ternes,Courcelles
+M2,Courcelles,Ternes
+M2,Courcelles,Monceau
+M2,Monceau,Courcelles
+M2,Monceau,Villiers
+M2,Villiers,Monceau
+M2,Villiers,Rome
+M2,Rome,Villiers
+M2,Rome,Place de Clichy
+M2,Place de Clichy,Rome
+M2,Place de Clichy,Blanche
+M2,Blanche,Place de Clichy
+M2,Blanche,Pigalle
+M2,Pigalle,Blanche
+M2,Pigalle,Anvers
+M2,Anvers,Pigalle
+M2,Anvers,Barbes Rochechouart
+M2,Barbes Rochechouart,Anvers
+M2,Barbes Rochechouart,La Chapelle
+M2,La Chapelle,Barbes Rochechouart
+M2,La Chapelle,Stalingrad
+M2,Stalingrad,La Chapelle
+M2,Stalingrad,Jaures
+M2,Jaures,Stalingrad
+M2,Jaures,Colonel Fabien
+M2,Colonel Fabien,Jaures
+M2,Colonel Fabien,Belleville
+M2,Belleville,Colonel Fabien
+M2,Belleville,Couronnes
+M2,Couronnes,Belleville
+M2,Couronnes,Menilmontant
+M2,Menilmontant,Couronnes
+M2,Menilmontant,Pere Lachaise
+M2,Pere Lachaise,Menilmontant
+M2,Pere Lachaise,Philippe Auguste
+M2,Philippe Auguste,Pere Lachaise
+M2,Philippe Auguste,Alexandre Dumas
+M2,Alexandre Dumas,Philippe Auguste
+M2,Alexandre Dumas,Avron
+M2,Avron,Alexandre Dumas
+M2,Avron,Nation
+M2,Nation,Avron

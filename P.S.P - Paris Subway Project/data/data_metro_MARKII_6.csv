@@ -1,0 +1,55 @@
+station_ligne,origin,destination
+M6,Charles De Gaulle Etoile,Kleber
+M6,Kleber,Charles De Gaulle Etoile
+M6,Kleber,Boissiere
+M6,Boissiere,Kleber
+M6,Boissiere,Trocadero
+M6,Trocadero,Boissiere
+M6,Trocadero,Passy
+M6,Passy,Trocadero
+M6,Passy,Bir Hakeim
+M6,Bir Hakeim,Passy
+M6,Bir Hakeim,Dupleix
+M6,Dupleix,Bir Hakeim
+M6,Dupleix,La Motte Picquet Grenelle
+M6,La Motte Picquet Grenelle,Dupleix
+M6,La Motte Picquet Grenelle,Cambronne
+M6,Cambronne,La Motte Picquet Grenelle
+M6,Cambronne,Sevres Lecourbe
+M6,Sevres Lecourbe,Cambronne
+M6,Sevres Lecourbe,Pasteur
+M6,Pasteur,Sevres Lecourbe
+M6,Pasteur,Montparnasse Bienvenue
+M6,Montparnasse Bienvenue,Pasteur
+M6,Montparnasse Bienvenue,Edgar Quinet
+M6,Edgar Quinet,Montparnasse Bienvenue
+M6,Edgar Quinet,Raspail
+M6,Raspail,Edgar Quinet
+M6,Raspail,Denfert Rochereau
+M6,Denfert Rochereau,Raspail
+M6,Denfert Rochereau,Saint Jacques
+M6,Saint Jacques,Denfert Rochereau
+M6,Saint Jacques,Classiere
+M6,Glaciere,Saint Jacques
+M6,Glaciere,Corvisart
+M6,Corvisart,Classiere
+M6,Corvisart,Place d'Italie
+M6,Place d'Italie,Corvisart
+M6,Place d'Italie,Nationale
+M6,Nationale,Place d'Italie
+M6,Nationale,Chevaleret
+M6,Chevaleret,Nationale
+M6,Chevaleret,Quai de la Gare
+M6,Quai de la Gare,Chevaleret
+M6,Quai de la Gare,Bercy
+M6,Bercy,Quai de la Gare
+M6,Bercy,Dugommier
+M6,Dugommier,Bercy
+M6,Dugommier,Daumesnil
+M6,Daumesnil,Dugommier
+M6,Daumesnil,Bel Air
+M6,Bel Air,Daumesnil
+M6,Bel Air,Picpus
+M6,Picpus,Bel Air
+M6,Picpus,Nation
+M6,Nation,Picpus
