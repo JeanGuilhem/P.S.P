@@ -74,7 +74,7 @@ You will have to request the db with something such as :
 match $route (beginning : $station1, end : $station2), has station_ligne "{given_parameter}"; get $station1, $station2;
 ```
 
-and had a counter for the stations but be careful with duplicated data.
+and add a counter for the stations but be careful with duplicated data.
 
 
 ## The map 
