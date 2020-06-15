@@ -81,7 +81,7 @@ match $route (beginning : $station1, end : $station2), has station_ligne "{given
 and add a counter for the stations but be careful with duplicated data.
 
 #### Patch between two stations
-![path_between_station](image/path_stations.png)
+![path_between_station](image/Path_stations.png)
 
 ## The map 
 
