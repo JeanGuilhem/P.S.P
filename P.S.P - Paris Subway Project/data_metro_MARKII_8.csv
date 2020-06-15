@@ -1,0 +1,75 @@
+station_ligne,origin,destination
+M8,Balard,Lourmel
+M8,Lourmel,Balard
+M8,Lourmel,Boucicaut
+M8,Boucicaut,Lourmel
+M8,Boucicaut,Felix Faure
+M8,Felix Faure,Boucicaut
+M8,Felix Faure,Commerce
+M8,Commerce,Felix Faure
+M8,Commerce,La Motte Picquet Grenelle
+M8,La Motte Picquet Grenelle,Commerce
+M8,La Motte Picquet Grenelle,Ecole Militaire
+M8,Ecole Militaire,La Motte Picquet Grenelle
+M8,Ecole Militaire,La Tour Maubourg
+M8,La Tour Maubourg,Ecole Militaire
+M8,La Tour Maubourg,Invalides
+M8,Invalides,La Tour Maubourg
+M8,Invalides,Concorde
+M8,Concorde,Invalides
+M8,Concorde,Madeleine
+M8,Madeleine,Concorde
+M8,Madeleine,Opera
+M8,Opera,Madeleine
+M8,Opera,Richelieu Drouot
+M8,Richelieu Drouot,Opera
+M8,Richelieu Drouot,Grands Boulevards
+M8,Grands Boulevards,Richelieu Drouot
+M8,Grands Boulevards,Bonne Nouvelle
+M8,Bonne Nouvelle,Grands Boulevards
+M8,Bonne Nouvelle,Strasbourg Saint Denis
+M8,Strasbourg Saint Denis,Bonne Nouvelle
+M8,Strasbourg Saint Denis,Republique
+M8,Republique,Strasbourg Saint Denis
+M8,Republique,Filles du Calvaire
+M8,Filles du Calvaire,Republique
+M8,Filles du Calvaire,Saint Sebastien Froissart
+M8,Saint Sebastien Froissart,Filles du Calvaire
+M8,Saint Sebastien Froissart,Chemin Vert
+M8,Chemin Vert,Saint Sebastien Froissart
+M8,Chemin Vert,Bastille
+M8,Bastille,Chemin Vert
+M8,Bastille,Ledru Rollin
+M8,Ledru Rollin,Bastille
+M8,Ledru Rollin,Faidherbe Chaligny
+M8,Faidherbe Chaligny,Ledru Rollin
+M8,Faidherbe Chaligny,Reuilly Diderot
+M8,Reuilly Diderot,Faidherbe Chaligny
+M8,Reuilly Diderot,Montgallet
+M8,Montgallet,Reuilly Diderot
+M8,Montgallet,Daumesnil
+M8,Daumesnil,Montgallet
+M8,Daumesnil,Michel Bizot
+M8,Michel Bizot,Daumesnil
+M8,Michel Bizot,Porte Doree
+M8,Porte Doree,Michel Bizot
+M8,Porte Doree,Porte de Charenton
+M8,Porte de Charenton,Porte Doree
+M8,Porte de Charenton,Liberte
+M8,Liberte,Porte de Charenton
+M8,Liberte,Charenton Ecoles
+M8,Charenton Ecoles,Liberte
+M8,Charenton Ecoles,Ecole Veterinaire de Maisons Alfort
+M8,Ecole Veterinaire de Maisons Alfort,Charenton Ecoles
+M8,Ecole Veterinaire de Maisons Alfort,Maisons Alfort Stade
+M8,Maisons Alfort Stade,Ecole Veterinaire de Maisons Alfort
+M8,Maisons Alfort Stade,Maisons Alfort Les Juilliottes
+M8,Maisons Alfort Les Juilliottes,Maisons Alfort Stade
+M8,Maisons Alfort Les Juilliottes,Creteil L'Echat
+M8,Creteil L'Echat,Maisons Alfort Les Juilliottes
+M8,Creteil L'Echat,Creteil Universite
+M8,Creteil Universite,Creteil L'Echat
+M8,Creteil Universite,Creteil Prefecture
+M8,Creteil Prefecture,Creteil Universite
+M8,Creteil Prefecture,Creteil Pointe du Lac
+M8,Creteil Pointe du Lac,Creteil Prefecture

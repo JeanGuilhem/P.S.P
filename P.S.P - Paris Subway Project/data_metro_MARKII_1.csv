@@ -1,0 +1,49 @@
+station_ligne,origin,destination
+M1,La Defense,Esplanade de la Defense
+M1,Esplanade de la Defense,La Defense
+M1,Esplanade de la Defense,Pont de Neuilly
+M1,Pont de Neuilly,Esplanade de la Defense
+M1,Pont de Neuilly,Les Sablons
+M1,Les Sablons,Pont de Neuilly
+M1,Les Sablons,Porte Maillot
+M1,Porte Maillot,Les Sablons
+M1,Porte Maillot,Argentine
+M1,Argentine,Porte Maillot
+M1,Argentine,Charles de Gaulle Etoile
+M1,Charles de Gaulle Etoile,Argentine
+M1,Charles De Gaulle Etoile,George V
+M1,George V,Charles de Gaulle Etoile
+M1,George V,Franklin D.Roosevelt
+M1,Franklin D.Roosevelt,George V
+M1,Franklin D.Roosevelt,Champs Elysees Clemenceau
+M1,Champs Elysees Clemenceau,Franklin D.Roosevelt
+M1,Champs Elysees Clemenceau,Concorde
+M1,Concorde,Champs Elysees Clemenceau
+M1,Concorde,Tuileries
+M1,Tuileries,Concorde
+M1,Tuileries,Palais Royal Musee du Louvre
+M1,Palais Royal Musee du Louvre,Tuileries
+M1,Palais Royal Musee du Louvre,Louvre Rivoli
+M1,Louvre Rivoli,Palais Royal Musee du Louvre
+M1,Louvre Rivoli,Chatelet
+M1,Chatelet,Louvre Rivoli
+M1,Chatelet,Hotel de Ville
+M1,Hotel de Ville,Chatelet
+M1,Hotel de Ville,Saint Paul
+M1,Saint Paul,Hotel de Ville
+M1,Saint Paul,Bastille
+M1,Bastille,Saint Paul
+M1,Bastille,Gare de Lyon
+M1,Gare de Lyon,Bastille
+M1,Gare de Lyon,Reuilly Diderot
+M1,Reuilly Diderot,Gare de Lyon
+M1,Reuilly Diderot,Nation
+M1,Nation,Reuilly Diderot
+M1,Nation,Porte de Vincennes
+M1,Porte de Vincennes,Nation
+M1,Porte de Vincennes,Saint Mande
+M1,Saint Mande,Porte de Vincennes
+M1,Saint Mande,Berault
+M1,Berault,Saint Mande
+M1,Berault,Chateau de Vincennes
+M1,Chateau de Vincennes,Berault

@@ -1,0 +1,53 @@
+station_ligne,origin,destination
+M4,Porte de Clignancourt,Simplon
+M4,Simplon,Porte de Clignancourt
+M4,Simplon,Marcadet Poissonniers
+M4,Marcadet Poissonniers,Simplon
+M4,Marcadet Poissonniers,Chateau Rouge
+M4,Chateau Rouge,Marcadet Poissonniers
+M4,Chateau Rouge,Barbes Rochechouart
+M4,Barbes Rochechouart,Chateau Rouge
+M4,Barbes Rochechouart,Gare du Nord
+M4,Gare du Nord,Barbes Rochechouart
+M4,Gare du Nord,Gare de l'Est
+M4,Gare de l'Est,Gare du Nord
+M4,Gare de l'Est,Chateau d'Eau
+M4,Chateau d'Eau,Gare de l'Est
+M4,Chateau d'Eau,Strasbourg Saint Denis
+M4,Strasbourg Saint Denis,Chateau d'Eau
+M4,Strasbourg Saint Denis,Reaumur Sebastopol
+M4,Reaumur Sebastopol,Strasbourg Saint Denis
+M4,Reaumur Sebastopol,Etienne Marcel
+M4,Etienne Marcel,Reaumur Sebastopol
+M4,Etienne Marcel,Les Halles
+M4,Les Halles,Etienne Marcel
+M4,Les Halles,Chatelet
+M4,Chatelet,Les Halles
+M4,Chatelet,Cite
+M4,Cite,Chatelet
+M4,Cite,Saint Michel
+M4,Saint Michel,Cite
+M4,Saint Michel,Odeon
+M4,Odeon,Saint Michel
+M4,Odeon,Saint Germain des Pres
+M4,Saint Germain des Pres,Odeon
+M4,Saint Germain des Pres,Saint Sulpice
+M4,Saint Sulpice,Saint Germain des Pres
+M4,Saint Sulpice,Saint Placide
+M4,Saint Placide,Saint Sulpice
+M4,Saint Placide,Montparnasse Bienvenue
+M4,Montparnasse Bienvenue,Saint Placide
+M4,Montparnasse Bienvenue,Vavin
+M4,Vavin,Montparnasse Bienvenue
+M4,Vavin,Raspail
+M4,Raspail,Vavin
+M4,Raspail,Denfert Rochereau
+M4,Denfert Rochereau,Raspail
+M4,Denfert Rochereau,Mouton Duvernet
+M4,Mouton Duvernet,Denfert Rochereau
+M4,Mouton Duvernet,Alesia
+M4,Alesia,Mouton Duvernet
+M4,Alesia,Porte d'Orleans
+M4,Porte d'Orleans,Alesia
+M4,Porte d'Orleans,Mairie de Montrouge
+M4,Mairie de Montrouge,Porte d'Orleans

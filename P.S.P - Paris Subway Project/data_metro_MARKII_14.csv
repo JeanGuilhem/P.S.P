@@ -1,0 +1,17 @@
+station_ligne,origin,destination
+M14,Saint Lazare,Madeleine
+M14,Madeleine,Saint Lazare
+M14,Madeleine,Pyramides
+M14,Pyramides,Madeleine
+M14,Pyramides,Chatelet
+M14,Chatelet,Pyramides
+M14,Chatelet,Gare de Lyon
+M14,Gare de Lyon,Chatelet
+M14,Gare de Lyon,Bercy
+M14,Bercy,Gare de Lyon
+M14,Bercy,Cour Saint Emilion
+M14,Cour Saint Emilion,Bercy
+M14,Cour Saint Emilion,Bibliotheque François Mitterrand
+M14,Bibliotheque François Mitterrand,Cour Saint Emilion
+M14,Bibliotheque François Mitterrand,Olympiades
+M14,Olympiades,Bibliotheque François Mitterrand

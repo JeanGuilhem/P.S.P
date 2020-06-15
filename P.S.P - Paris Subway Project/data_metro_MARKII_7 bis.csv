@@ -1,0 +1,13 @@
+station_ligne,origin,destination
+M7 bis,Louis Blanc,Jaures
+M7 bis,Jaures,Louis Blanc
+M7 bis,Jaures,Bolivar
+M7 bis,Bolivar,Jaures
+M7 bis,Bolivar,Buttes Chaumont
+M7 bis,Buttes Chaumont,Bolivar
+M7 bis,Buttes Chaumont,Botzaris
+M7 bis,Botzaris,Buttes Chaumont
+M7 bis,Botzaris,Place des Fetes
+M7 bis,Place des Fetes,Pre Saint Gervais
+M7 bis,Pre Saint Gervais,Danube
+M7 bis,Danube,Botzaris
