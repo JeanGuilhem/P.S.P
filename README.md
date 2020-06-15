@@ -91,7 +91,7 @@ The colors in the map are the real colors given by the RATP.
 
 Normally, you should get the path between two stations by holding shift and clicking on them but it's not working for now (you can still got it via the statistcs information by the way).
 
-From Grakn "The centrality of an instance can be an indicator of its significance. The most interconnected of instances in a Grakn knowledge graph are those that are expected to be the most interesting in their domain. Graql uses two methods for computing centrality - Degree and K-cor"
+From Grakn  : *"The centrality of an instance can be an indicator of its significance. The most interconnected of instances in a Grakn knowledge graph are those that are expected to be the most interesting in their domain. Graql uses two methods for computing centrality - Degree and K-cor"*
 
 You can compute centrality of stations and get a visual information by just pressing `k` ( using k-core )
 ![map_k_core](image/Map_k_core.png)
