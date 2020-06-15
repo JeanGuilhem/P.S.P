@@ -46,7 +46,7 @@ station_ligne [string] : the name of the line (from 1 to 14 for the Paris subway
 lat [float] : the latitude gps coordinates for the station Ex: 48.5621
 lon [float] : the longitude gps coordinates for the station Ex: 2.2951
 
-- `data_metro_MARKII_{tube_line_name}.csv` contains the stations next to a certain station for the line `{tube_line_name}`
+- `data_metro_MARKII_{tube_line_name}.csv` contains the relation betweens station from the line `{tube_line_name}`
 
 station_ligne [string] : the line name Ex: "M1"
 origin [string] : the name of the origin station Ex: "La Defense"
