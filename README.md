@@ -6,6 +6,7 @@ It was greatly inspired from the London Underground Network project : https://gi
 See the Quickstart for how to get going immediately, or read on for more info.
 
 This project was realized as part of my internship at [7LieuesTechnologies](http://www.7lieues.net).
+
 [7LieuesTechnologies](http://www.7lieues.net) aims to support your company, from IT to accounting, by building a virtual assistant which provides multi-technologies and multi-trade help.
 
 ## Prerequisites
