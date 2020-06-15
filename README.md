@@ -21,3 +21,16 @@ This project works with Grakn 1.7.0
 - Load the data into the db by launching the file `migration_subway.py` into `P.S.P/data`
 - Launch the file `app.py` in order to get the map
 - Launche the file `statistics.py` in order to interact with the data via the console
+
+
+## Download Data
+
+- I downloaded the stations data from the RATP: https://data.iledefrance-mobilites.fr/explore/dataset/emplacement-des-gares-idf/export/
+- I created a csv the data for the lines relation here : https://gist.githubusercontent.com/NaPs/25309/raw/6cbcf7995d49bbf61d2dc7b4bc7dc426bbd3d6d1/paris.gph
+
+You can have access to the code that I used to create all the `data_metro` or `data_metro_MARKII` csv in the file `download_data.py`
+
+But I had to modify a larg ammount of data by hands in order to obtain the perfect data needed. So you will have to do the same if you want to restart all the project from zero. 
+
+Pro tips : just use the final csv files.
+
