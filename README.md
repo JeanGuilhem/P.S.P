@@ -1,5 +1,5 @@
 # P.S.P - Paris Subway Project
-Paris Subway Project  Drawing a map of the Paris's subway, from line 1 to line 14. 
+Drawing a map of the Paris's subway, from line 1 to line 14. 
 
 It was greatly inspired from the London Underground Network project : https://github.com/graknlabs/examples/tree/3895d8dd5e534b2af04ab448f2392f6eaff9cb59/tube_network
 
