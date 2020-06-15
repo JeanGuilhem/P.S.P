@@ -9,11 +9,11 @@ See the Quickstart for how to get going immediately, or read on for more info.
 
 Python >= 3.6 
 
-GraknClient
+six==1.14.0 ( for tkinter ) 
 
-tkinter
+grakn-client==1.7.2
 
-This project works with Grakn 1.7.0
+fuzzywuzzy==0.18.0
 
 ## Quickstart
 
