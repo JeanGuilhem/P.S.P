@@ -59,3 +59,32 @@ origin [string] : the name of the origin station Ex: "La Defense"
 destination [string] : the name of the destination station Ex: "Esplanade de la Defense"
 
 
+## Retrieving statistics informations 
+
+You can get statistics informations from the data by launching the file `statistics.py` like : 
+
+- How many stations do exist?
+- Which is the northernmost station in Paris?
+- Get a path between two stations
+
+In order to improve the project, an interesting question to ask should be "How many stations in a certain line"
+You will have to request the db with something such as :
+
+```
+match $route (beginning : $station1, end : $station2), has station_ligne "{given_parameter}"; get $station1, $station2;
+```
+
+and had a counter for the stations but be careful with duplicated data.
+
+
+## The map 
+
+The colors in the map are the real color given by the RATP.
+
+Normally, you should get the path between two stations by holding shift and clicking on them but it's not working for now (you can still got it via the statistcs information by the way).
+
+You can compute centrality of stations and get a visual information by just pressing `k` ( using k-core ) or by pressing r.
+
+You can clear the map from the previous information by pressing `c`.
+
+
