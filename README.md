@@ -1,6 +1,10 @@
 # P.S.P
 Paris Subway Project  Drawing a map of the Paris's subway. From line 1 to line 14. All the data has been imported from csv file to a Grakn database and has been requested from it.
 
+It was greatly inspired from the London Underground Network project : https://github.com/graknlabs/examples/tree/3895d8dd5e534b2af04ab448f2392f6eaff9cb59/tube_network
+
+See the Quickstart for how to get going immediately, or read on for more info.
+
 ## Prerequisites
 
 Python >= 3.6 
@@ -79,12 +83,14 @@ and add a counter for the stations but be careful with duplicated data.
 
 ## The map 
 
-The colors in the map are the real color given by the RATP.
+The colors in the map are the real colors given by the RATP.
 
 Normally, you should get the path between two stations by holding shift and clicking on them but it's not working for now (you can still got it via the statistcs information by the way).
 
 You can compute centrality of stations and get a visual information by just pressing `k` ( using k-core ) or by pressing r.
 
-You can clear the map from the previous information by pressing `c`.
+You can clear the map from the previous information by pressing `c`
 
+You can zoom in via `+`/`=`
 
+You can zoom out via `-`
